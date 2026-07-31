@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-26T18:41:32Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "http://192.168.31.50:8999",
+      "region": "hk",
+      "priority": 1
+    }
+  ]
+}
