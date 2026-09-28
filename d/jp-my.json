@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-28T19:26:34Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "https://api.streamvanta.live",
+      "wsUrl": "wss://ws.streamvanta.live/api/nplink/v1/device/ws",
+      "region": "hk",
+      "priority": 1
+    }
+  ]
+}
