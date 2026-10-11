@@ -1,10 +1,10 @@
 {
-  "version": 1,
-  "updatedAt": "2026-10-10T20:54:37Z",
+  "version": 2,
+  "updatedAt": "2026-10-11T07:33:30Z",
   "servers": [
     {
       "name": "主节点",
-      "apiBase": "https://api.playzavoq.live/healthz",
+      "apiBase": "https://api.playzavoq.live",
       "wsUrl": "wss://ws.playzavoq.live/api/nplink/v1/device/ws",
       "region": "hk",
       "priority": 1
