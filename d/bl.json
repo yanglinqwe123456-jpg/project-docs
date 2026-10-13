@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-13T23:18:14Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "https://blapi.eveningmood.live",
+      "wsUrl": "wss://blws.eveningmood.live",
+      "region": "hk",
+      "priority": 1
+    }
+  ]
+}
