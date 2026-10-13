@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-13T21:05:14Z",
+  "servers": [
+    {
+      "name": "主节点",
+      "apiBase": "https://mxgapi.callvix.cc",
+      "wsUrl": "wss://mxgws.callvix.cc",
+      "region": "hk",
+      "priority": 1
+    }
+  ]
+}
